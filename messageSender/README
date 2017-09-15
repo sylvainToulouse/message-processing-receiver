@@ -1,0 +1,2 @@
+This project contains the message sender (using socket connection system). It is the client part.
+The input data is included in the MessageSenderClient class.
