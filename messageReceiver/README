@@ -1,0 +1,3 @@
+This project aims to receive message using socket communication. It's the sever part.
+After receiving the message, this project parses it and prints a report giving sales information and adjustment information if available
+Of course, this project could be improved: using more accurate regexp, taking care of corner cases (in case of plural sale orders).
